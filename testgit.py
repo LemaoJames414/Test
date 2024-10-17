@@ -1,2 +1,2 @@
 print('Git push')
-print('Example code change')
+print('Example code')
